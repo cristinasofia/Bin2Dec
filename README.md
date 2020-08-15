@@ -6,4 +6,4 @@
 <li> User views the results in a single output field containing the decimal (base 10) equivalent of the binary number that was entered </li>
 <h2> Constraints </h2>
 <li> Arrays may not be used contain the binary digits entered by the user </li>
-<li> Determining the decimal equivalent of a particular binary digit in the sequence must be calculated using a single mathematical function, for example the natural logarithm. It's up to you to figure out which function to use </li>
+<li> Determining the decimal equivalent of a particular binary digit in the sequence must be calculated using a single mathematical function, for example the natural logarithm </li>
